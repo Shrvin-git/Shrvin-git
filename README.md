@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shervin%20Davoodi&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Next.js%20Developer&descSize=25&descAlignY=60" width="100%" />
 
   <p align="center">
