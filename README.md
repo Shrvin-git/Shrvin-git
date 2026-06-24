@@ -20,7 +20,7 @@
 
 <table align="center">
   <tr>
-    <td width="50%" valign="top">
+    <td width="65%" valign="top">
       <h4>💻 Frontend</h4>
       <ul>
         <li>Next.js (App Router)</li>
@@ -28,7 +28,7 @@
         <li>Tailwind CSS</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+    <td width="65%" valign="top">
       <h4>⚙️ Backend</h4>
       <ul>
         <li>Node.js</li>
