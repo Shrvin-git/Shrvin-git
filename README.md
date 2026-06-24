@@ -1,103 +1,96 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shervin%20Davoodi&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Next.js%20Developer&descSize=25&descAlignY=60" width="100%" />
 
-# سلام، من شروینم 👋
-### *Hey, I'm Shervin — a Front-End Developer*
+  <p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=9333EA&center=true&vCenter=true&width=500&lines=Crafting+Digital+Experiences;Next.js+Full-Stack+Expert;Turning+Coffee+into+Code;Building+the+Future+of+Web" alt="Typing SVG" /></a>
+  </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=831FC1&center=true&vCenter=true&width=500&lines=Front-End+Developer+%F0%9F%9A%80;React+%26+Next.js+Enthusiast+%E2%9A%A1;Building+cool+stuff+on+the+web+%F0%9F%8C%90" alt="Typing SVG" />
-
+  <p align="center">
+    <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://t.me/your-telegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  </p>
 </div>
 
 ---
 
-## 👨‍💻 درباره من | About Me
+### ⚡ About Me
 
-من یه **فرانت‌اند دولوپر** هستم که عاشق ساختن رابط‌های کاربری زیبا و تجربه‌های وبی خوبه.  
-در حال یادگیری مداومم و هر روز سعی می‌کنم یه چیز جدید یاد بگیرم 💪
+من یک توسعه‌دهنده **Full-Stack** هستم که تمام تمرکزم روی خلق اپلیکیشن‌های سریع، بهینه و کاربرپسند با **Next.js** است. معتقدم کد زدن یک هنره و هر پروژه فرصتی برای حل یک پازل جدید.
 
-> *"Code is like humor. When you have to explain it, it's bad."*
-
-- 🌱 در حال یادگیری **Node.js, TypeScript, MongoDB**
-- 🚀 علاقه‌مند به ساخت پروژه‌های **Full-Stack**
-- 💡 همیشه دنبال چالش‌های جدیدم
-- 📍 ایران 🇮🇷
+- 🔭 **در حال حاضر:** روی توسعه پلتفرم‌های E-commerce پیشرفته کار می‌کنم.
+- ⚛️ **تخصص اصلی:** معماری پروژه‌های سمت کلاینت و سرور با اکوسیستم React.
+- 🧠 **فلسفه کاری:** اول فکر کن، بعد کد بزن. سادگی نهایتِ پیچیدگیه.
+- 💬 **از من بپرس:** درباره Next.js، استراتژی‌های رندرینگ (SSR/ISR) و طراحی دیتابیس‌های NoSQL.
 
 ---
 
-## 🛠️ مهارت‌ها | Tech Stack
+### 🚀 My Tech Toolbox
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,tailwind,mongodb,html,css,git,vscode,vercel&perline=5" />
+</div>
 
-### 🎨 Front-End
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+<br />
 
-### 🔧 در حال یادگیری | Learning
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Frontend Excellence</h4>
+      <ul>
+        <li>Next.js (App Router, Server Components)</li>
+        <li>React Core & Hooks Architecture</li>
+        <li>Tailwind CSS (Responsive & Motion)</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend & Storage</h4>
+      <ul>
+        <li>Node.js / Next.js API Routes</li>
+        <li>MongoDB & Mongoose Modeling</li>
+        <li>Authentication (JWT & Next-Auth)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### ⚙️ ابزارها | Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+---
 
+### 🏆 Featured Project
+
+<div align="center">
+  <a href="https://github.com/Shrvin-git/Tak-Shop-Full-Stack">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Shrvin-git&repo=Tak-Shop-Full-Stack&theme=tokyonight&show_owner=true" alt="Tak-Shop Project Card" />
+  </a>
+</div>
+
+> **Tak-Shop:** یک تجربه خرید آنلاین مدرن. پیاده‌سازی کامل پنل ادمین، مدیریت موجودی زنده، و درگاه پرداخت شبیه‌سازی شده با بهترین متدهای امنیتی.
+
+---
+
+### 📊 Coding Activity & Metrics
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Shrvin-git&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=9333EA&icon_color=9333EA" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrvin-git&layout=compact&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=9333EA" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrvin-git&theme=tokyonight&hide_border=false&background=0D1117&stroke=9333EA&ring=9333EA&fire=9333EA" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🚀 پروژه‌ها | Projects
-
+### 🎮 Contribution Snake
 <div align="center">
-
-| پروژه | توضیح | تکنولوژی |
-|-------|--------|-----------|
-| 🛒 **[Tak-Shop](https://github.com/Shrvin-git/Tak-Shop-Full-Stack)** | فروشگاه آنلاین فول‌استک با سیستم احراز هویت، مدیریت محصولات و سبد خرید | Next.js · MongoDB · JWT |
-
-</div>
-
-### 🛒 Tak-Shop — فروشگاه آنلاین
-
-> یه فروشگاه آنلاین کامل که از صفر ساختمش!
-
-**ویژگی‌ها:**
-- 🔐 احراز هویت با JWT
-- 🛍️ سبد خرید و مدیریت سفارشات  
-- 🎛️ پنل ادمین کامل
-- 📱 طراحی ریسپانسیو
-- ⚡ Server-Side Rendering با Next.js
-
----
-
-## 📊 آمار گیت‌هاب | GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Shrvin-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrvin-git&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📬 تماس | Contact
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Shrvin--git-181717?style=for-the-badge&logo=github)](https://github.com/Shrvin-git)
-
+  <img src="https://raw.githubusercontent.com/Shrvin-git/Shrvin-git/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 ---
 
 <div align="center">
-  
-*از اینکه به پروفایلم سر زدی ممنونم!
-*اگه پروژه‌ای دیدی که دوست داشتی، یه ⭐ بده — خوشحال میشم!*
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Shrvin-git&color=831FC1&style=flat-square&label=Profile+Views)
-
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0D1117" alt="Daily Quote" />
+  <br />
+  <p><i>Thanks for stopping by! Let's build something amazing together.</i></p>
+  <img src="https://komarev.com/ghpvc/?username=Shrvin-git&color=9333EA&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
