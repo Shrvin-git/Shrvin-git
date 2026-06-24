@@ -18,27 +18,28 @@
 
 <br />
 
-<table align="center">
-  <tr>
-    <td width="65%" valign="top">
-      <h4>💻 Frontend</h4>
-      <ul>
-        <li>Next.js (App Router)</li>
-        <li>React & Hooks</li>
-        <li>Tailwind CSS</li>
-      </ul>
-    </td>
-    <td width="65%" valign="top">
-      <h4>⚙️ Backend</h4>
-      <ul>
-        <li>Node.js</li>
-        <li>MongoDB & Mongoose</li>
-        <li>REST API Development</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td width="50%" align="center" style="border-style: none;">
+        <img src="https://img.shields.io/badge/Frontend_Development-9333EA?style=for-the-badge&logo=react&logoColor=white" />
+        <br><br>
+        <code><strong>Next.js (App Router)</strong></code><br>
+        <code><strong>React.js & Hooks</strong></code><br>
+        <code><strong>Tailwind CSS</strong></code><br>
+        <code><strong>Responsive Design</strong></code>
+      </td>
+      <td width="50%" align="center" style="border-style: none;">
+        <img src="https://img.shields.io/badge/Backend_Architecture-0F172A?style=for-the-badge&logo=node.js&logoColor=white" />
+        <br><br>
+        <code><strong>Node.js Runtime</strong></code><br>
+        <code><strong>MongoDB & Mongoose</strong></code><br>
+        <code><strong>RESTful API Design</strong></code><br>
+        <code><strong>Database Modeling</strong></code>
+      </td>
+    </tr>
+  </table>
+</div>
 ---
 
 # 👋 About Me
