@@ -94,8 +94,8 @@
 ---
 
 <div align="center">
-
-**از اینکه به پروفایلم سر زدی ممنونم! 🙏**  
+  
+*از اینکه به پروفایلم سر زدی ممنونم!
 *اگه پروژه‌ای دیدی که دوست داشتی، یه ⭐ بده — خوشحال میشم!*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Shrvin-git&color=831FC1&style=flat-square&label=Profile+Views)
